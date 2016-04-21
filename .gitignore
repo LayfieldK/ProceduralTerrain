@@ -26,3 +26,5 @@ ExportedObj/
 sysinfo.txt
 /ProjectSettings
 *.meta
+Assets/Materials/MapMaterial.mat
+Assets/TerrainScene.unity
