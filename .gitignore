@@ -28,3 +28,7 @@ sysinfo.txt
 *.meta
 Assets/Materials/MapMaterial.mat
 Assets/TerrainScene.unity
+/Assets/GoldenSkullStudios
+/Assets/Standard Assets/Effects/ImageEffects
+/Assets/Editor/ImageEffects
+/Assets/Standard Assets/Effects
